@@ -2,8 +2,8 @@ package api
 
 import "fmt"
 
-variable := "hello world!"
-Variable := "Hello World~"
+var variable := "hello world!"
+var Variable := "Hello World~"
 
 
 func HandlerReq() {
